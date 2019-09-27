@@ -6,7 +6,7 @@ module.exports = {
     themeConfig: {
       sidebarDepth: 0,
       sidebar: [
-        ['/readme.md', '前言']
+        ['readme.md', '前言']
       ],
       nav: [
         { text: 'Home', link: '/' },
